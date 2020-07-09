@@ -7,7 +7,7 @@ int main() {
 	for (int i = 0; i < 3; i++) {
 		cin >> x[i] >> y[i];
 	}
-	int y_length, x_length, x4, y4;
+	int  x4, y4;
 	if (x[0] == x[1]) {
 		if (y[2] == y[0]) {
 			y4 = y[1];
