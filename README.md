@@ -1,6 +1,6 @@
 # Coding Test
 
-> 1) Baekjoon <br>
+> ### Baekjoon <br>
 > > https://www.acmicpc.net/<br>
-> 2) Programmers<br>
+> ### Programmers<br>
 > > https://programmers.co.kr/<br>
